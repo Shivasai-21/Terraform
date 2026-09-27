@@ -1,0 +1,8 @@
+iname          = "Tf-server01"
+env            = "dev"
+ami_id         = "ami-066c4849e6b3a1e3d"
+itype          = "t3.micro"
+key            = "Devops-Kp"
+az_zone        = "ap-south-1a"
+volume         = 20
+resource_count = 1
