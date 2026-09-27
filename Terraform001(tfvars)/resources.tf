@@ -1,4 +1,4 @@
-resource "aws_instance" "instance01" {
+resource "aws_instance"."instance01" {
   tags = {
     name = var.iname
     env  = var.env
